@@ -4,6 +4,7 @@ div.container1 {
   top: 40%;
   left: 50%;
   margin-right: -50%;
+  text-align: center;
   transform: translate(-50%, -50%)
 }
 
@@ -23,5 +24,9 @@ div.container2 {
 }
 
 .center {
-  text-align: right;
+  text-align: center;
+}
+
+.caption {
+    display: block;
 }
